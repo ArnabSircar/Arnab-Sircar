@@ -1,3 +1,4 @@
+![logo](https://github.com/ArnabSircar/Arnab-Sircar/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arnab Sircar</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6BAZapEOZHmgmWGAmYztiQ_hxI02UeID3Q&s">
